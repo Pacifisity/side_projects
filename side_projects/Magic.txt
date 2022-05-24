@@ -1,0 +1,3 @@
+Magic ball in the center of the screen you use to destroy moving enemies, if the enemy makes it to the bottom of the screen, you take damage.\
+
+https://youtu.be/8dfePlONtls?t=4852
